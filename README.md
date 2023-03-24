@@ -48,14 +48,14 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 ### Commit Message Guides
 - [The Importance of Commit Messages](https://github.com/RomuloOliveira/commit-messages-guide) - A guide explaining how and why to write good commit messages.
 - [Commit Message Style Guide](https://www.conventionalcommits.org/en/v1.0.0/) - A simple format for styling commit messages.
-- [General Commit Message Guidelines](https://initialcommit.com/blog/git-commit-messages-best-practices) - A commit message resource focused on the expected conventions and grammar of commit messages.
+- [General Commit Message Guidelines](https://initialcommit.com/blog/git-commit-messages-best-practices) - A commit message resource about the conventions and grammar of commit messages.
 - [Commit Message Advice](https://www.datree.io/resources/git-commit-message) - A guide to adopting and enforcing a commit message convention. 
 - [Angular Commit Message Format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit) - The commit message format used by Angular and Google.
 
 ### ReadMe Guides
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - Github's advice regarding making READMEs. Includes Github specific details on how READMEs are displayed.
 - [Making READMEs readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md) - A detailed guide of what to include in a readme. 
-- [Awesome READMEs](https://github.com/matiassingers/awesome-readme) - An Awesome list of good README examples. Explains what each README did well.
+- [Awesome READMEs](https://github.com/matiassingers/awesome-readme) - An awesome list of good README examples. Explains what each README did well.
 
 ### Table of Contents Guides
 - [Table-Of-Contents (TOC) Generators](https://github.com/sindresorhus/stuff/blob/main/toc-generators.md) - Three resources for auto-generating TOCs.
@@ -68,8 +68,8 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 
 ### Git Large File Storage
 - [Git LFS](https://git-lfs.com/) - A link to Git LFS, an open source Git Extension for managing larger files.
-- [Migrating to Git LFS for Deep Learning](https://medium.com/vooban-ai/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files-89132cedf08) - A detailed guide to migrating from Git to Git LFS in order to efficiently manage huge file sizes.
-- [Git LFS Commands](https://helpmanual.io/man1/git-lfs/) - A list of high-level and low-level commands specific to Git LFS
+- [Migrating to Git LFS for Deep Learning](https://medium.com/vooban-ai/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files-89132cedf08) - A detailed guide to migrating from Git to Git LFS. Useful for managing huge file sizes.
+- [Git LFS Commands](https://helpmanual.io/man1/git-lfs/) - A list of high-level and low-level commands specific to Git LFS.
 
 ### Git Flow
 - [Git Flow Cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A collection of commands for using the Git Extension, Git Flow.
