@@ -53,6 +53,7 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 - [General Commit Message Guidelines](https://initialcommit.com/blog/git-commit-messages-best-practices) - A commit message resource about the conventions and grammar of commit messages.
 - [Commit Message Advice](https://www.datree.io/resources/git-commit-message) - A guide to adopting and enforcing a commit message convention. 
 - [Angular Commit Message Format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit) - The commit message format used by Angular and Google.
+- [Practical Git Commit Message Convention](https://dev.to/ishanmakadia/git-commit-message-convention-that-you-can-follow-1709) - A simple and practical command line commit message convention.
 
 ### ReadMe Guides
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - Github's advice regarding making READMEs. Includes Github specific details on how READMEs are displayed.
