@@ -28,6 +28,7 @@ For general guides on using Github, try the [Awesome Github list](https://github
 - (The Documentation Compendium)[https://github.com/kylelobo/The-Documentation-Compendium] - A guide discussing why and how you should document Git projects. Includes advice and templates regarding READMEs, pull requests, code of conducts, and more.
 
 ### ReadMe Guides
+- [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - Github's advice regarding making READMEs. Includes Github specific details on how READMEs are displayed.
 - [Making READMEs readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md) - A detailed guide of what to include in a readme. Covers descriptions, how to use, contributing, licensing information, and contact information.
 - [Awesome READMEs](https://github.com/matiassingers/awesome-readme) - An Awesome list of good README examples. Explains what each README did well.
 
