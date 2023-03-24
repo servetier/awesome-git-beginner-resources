@@ -57,8 +57,11 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 
 ### ReadMe Guides
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - Github's advice regarding making READMEs. Includes Github specific details on how READMEs are displayed.
+- [The Complete Guide to README Markdown Syntax](https://github.com/darsaveli/Readme-Markdown-Syntax) - An extensive guide to using Markdown syntax in the context of READMEs.
+- [How to Write a Good README for Your Github Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) - An article discussing vital and optional additions to your READMEs.
 - [Making READMEs readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md) - A detailed guide of what to include in a readme. 
 - [Awesome READMEs](https://github.com/matiassingers/awesome-readme) - An awesome list of good README examples. Explains what each README did well.
+- [Professional README Template](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) - A simple and effective template for professional READMEs.
 
 ### Table of Contents Guides
 - [Table-Of-Contents (TOC) Generators](https://github.com/sindresorhus/stuff/blob/main/toc-generators.md) - Three resources for auto-generating TOCs.
