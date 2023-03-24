@@ -16,6 +16,7 @@ A curation of resources for using Git, aimed towards beginners to both. Focused 
 For general guides on using Github, try the [Awesome Github list](https://github.com/phillipadsmith/awesome-github) instead.
 
 ## How to Start using Git
+- [Git Pro Book](https://git-scm.com/book/en/v2) - Git's guide to using and downloading Git.
 - [Introduction to Git and How To Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/) - Explanation Goes Here.
 
 ## Git Commands and Terminology
