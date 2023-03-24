@@ -23,6 +23,7 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 ## Flowcharts and Interactive Guides
 - [The 'Git Pretty' Flowchart](http://justinhileman.info/article/git-pretty/git-pretty.png) - A guide to undoing a messy Git experience.
 - [Interactive Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - An interactive guide to basic Git commands.
+- [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/) - An interactive interface that allows you to input git commands and visualize how they work.
 
 ## Git Commands and Terminology
 - [Git Cheatsheet](http://git-cheatsheet.com/) - A list of Git commands for quick reference, organized by type.
