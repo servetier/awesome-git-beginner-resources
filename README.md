@@ -12,6 +12,15 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 * [Resources for Using Git Large File Storage](#git-large-file-storage)
 * [Resources Related to Git](#git-related-resources)
 
+## To-do List
+- [] Git Client Resources
+- [] Repository Hosting Resources
+- [] Self-hosted Repository Resources
+- [] Workflow Resources
+- [] Hook Management Resources
+- [] Tool Resources
+- [] Git Extension Resources
+
 ## How to Start Using Git
 - [Git Pro Book](https://git-scm.com/book/en/v2) - Git's guide to using and downloading Git.
 - [Introduction to Git and How To Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/) - A more friendly guide to making your first project in Git.
