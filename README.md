@@ -12,18 +12,18 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 * [Resources for Using Git Large File Storage](#git-large-file-storage)
 * [Resources Related to Git](#git-related-resources)
 
-## How to Start using Git
+## How to Start Using Git
 - [Git Pro Book](https://git-scm.com/book/en/v2) - Git's guide to using and downloading Git.
 - [Introduction to Git and How To Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/) - A more friendly guide to making your first project in Git.
 - [DIY Git in Python](https://www.leshenko.net/p/ugit/#) - Learn Git by recreating it in Python. Allows you to better understand Git's internals.
-- [Visual Guide to Git Branches](https://learngitbranching.js.org/) - Learn Git how git branching works through a visual interface.
-- [Git-it Desktop App](https://github.com/jlord/git-it-electron) - Learn Git and Github on the command line. Available in multiple languages.
 - [Git How-to](https://githowto.com/) - A step-by-step guide to using Git. Works as a guided tour of Git commands.
 
 ## Flowcharts and Interactive Guides
-- [The 'Git Pretty' Flowchart](http://justinhileman.info/article/git-pretty/git-pretty.png) - A guide to undoing a messy Git experience.
+- [The 'Git Pretty' Flowchart](http://justinhileman.info/article/git-pretty/git-pretty.png) - A guide to undoing a messy Git mistake.
 - [Interactive Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - An interactive guide to basic Git commands.
 - [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/) - An interactive interface that allows you to input git commands and visualize how they work.
+- [Visual Guide to Git Branches](https://learngitbranching.js.org/) - Learn Git how git branching works through a visual interface.
+- [Git-it Desktop App](https://github.com/jlord/git-it-electron) - Learn Git and Github on the command line. Available in multiple languages.
 
 ## Git Commands and Terminology
 - [Git Cheatsheet](http://git-cheatsheet.com/) - A list of Git commands for quick reference, organized by type.
