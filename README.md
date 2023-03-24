@@ -13,13 +13,13 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 * [Resources Related to Git](#git-related-resources)
 
 ## To-do List
-- [] Git Client Resources
-- [] Repository Hosting Resources
-- [] Self-hosted Repository Resources
-- [] Workflow Resources
-- [] Hook Management Resources
-- [] Tool Resources
-- [] Git Extension Resources
+- [ ] Git Client Resources
+- [ ] Repository Hosting Resources
+- [ ] Self-hosted Repository Resources
+- [ ] Workflow Resources
+- [ ] Hook Management Resources
+- [ ] Tool Resources
+- [ ] Git Extension Resources
 
 ## How to Start Using Git
 - [Git Pro Book](https://git-scm.com/book/en/v2) - Git's guide to using and downloading Git.
@@ -74,3 +74,6 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 ### Github
 - [Awesome Github list](https://github.com/phillipadsmith/awesome-github) - Includes an extensive list of things that makes Github awesome.
 - [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners) - An extensive list of beginner-friendly Github projects to start with.
+
+## Other Git Lists
+- [Awesome List](https://github.com/dictcp/awesome-git) - An awesome list of Git tools, tips, and resources.
