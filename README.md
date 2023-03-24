@@ -17,6 +17,7 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 - [DIY Git in Python](https://www.leshenko.net/p/ugit/#) - Learn Git by recreating it in Python. Allows you to better understand Git's internals.
 - [Visual Guide to Git Branches](https://learngitbranching.js.org/) - Learn Git how git branching works through a visual interface.
 - [Git-it Desktop App](https://github.com/jlord/git-it-electron) - Learn Git and Github on the command line. Available in multiple languages.
+- [Git How-to](https://githowto.com/) - A step-by-step guide to using Git. Works as a guided tour of Git commands.
 
 ## Git Commands and Terminology
 - [Git Cheatsheet](http://git-cheatsheet.com/) - A list of Git commands for quick reference, organized by type.
