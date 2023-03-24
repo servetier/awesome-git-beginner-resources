@@ -21,6 +21,7 @@ For general guides on using Github, try the [Awesome Github list](https://github
 - [Git Cheatsheet](http://git-cheatsheet.com/) - A list of Git commands, organized by type. Best for quick reference. See below for more extensive command lists.
 - [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet) - A more extensive list of Git commands. Includes multiple languages, such as Arabic, German, Chinese, Spanish, and more.
 - [Git Tips](https://github.com/git-tips/tips) - A list of useful Git commands, such as how to delete specific branches, creating and deleting local tags, or viewing files changed in a commit.
+- [The Importance of Commit Messages](https://github.com/RomuloOliveira/commit-messages-guide) - A guide explaining the importance of commit messages and how to write them well.
 
 ## ReadMe Guides
 - [Making READMEs readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md) - A detailed guide of what to include in a readme. Covers descriptions, how to use, contributing, licensing information, and contact information.
