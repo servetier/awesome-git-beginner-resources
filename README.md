@@ -64,7 +64,8 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 - [Professional README Template](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) - A simple and effective template for professional READMEs.
 
 ### Table of Contents Guides
-- [Table-Of-Contents (TOC) Generators](https://github.com/sindresorhus/stuff/blob/main/toc-generators.md) - Three resources for auto-generating TOCs.
+- [Table of Contents: Markdown All in One](https://markdown-all-in-one.github.io/docs/guide/table-of-contents.html) An explanation of the Table of Content Markdown lists.
+- [Table-of-Contents (TOC) Generators](https://github.com/sindresorhus/stuff/blob/main/toc-generators.md) - Three resources for auto-generating TOCs.
 
 ## Git Related Resources
 
