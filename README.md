@@ -48,6 +48,7 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 ### Commit Message Guides
 - [The Importance of Commit Messages](https://github.com/RomuloOliveira/commit-messages-guide) - A guide explaining how and why to write good commit messages.
 - [Commit Message Style Guide](https://www.conventionalcommits.org/en/v1.0.0/) - A simple format for styling commit messages.
+- [General Commit Message Guidelines](https://initialcommit.com/blog/git-commit-messages-best-practices) - A commit message resource focused on the expected conventions and grammar of commit messages.
 
 ### ReadMe Guides
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - Github's advice regarding making READMEs. Includes Github specific details on how READMEs are displayed.
