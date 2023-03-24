@@ -47,6 +47,7 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 
 ### Commit Message Guides
 - [The Importance of Commit Messages](https://github.com/RomuloOliveira/commit-messages-guide) - A guide explaining how and why to write good commit messages.
+- [How to Write Better Commit Messages](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/) - A short, basic step-by-step guide to good commit messages.
 - [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/) - A guide to commit message conventions in the Git command line.
 - [Commit Message Style Guide](https://www.conventionalcommits.org/en/v1.0.0/) - A simple format for styling commit messages.
 - [General Commit Message Guidelines](https://initialcommit.com/blog/git-commit-messages-best-practices) - A commit message resource about the conventions and grammar of commit messages.
