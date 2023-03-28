@@ -9,6 +9,7 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 * [Interactive Resources and Flowcharts for Git](#flowcharts-and-interactive-guides)
 * [Resources for Git Commands and Terminology](#git-commands-and-terminology)
 * [Resources for Documenting Git Projects](#git-documentation-guides)
+* [Resources for Git Workflows](#git-workflow-resources)
 * [Resources for Using Git Large File Storage](#git-large-file-storage)
 * [Resources Related to Git](#git-related-resources)
 
@@ -66,6 +67,12 @@ Do you have a useful resource that hasn't been included here? Take a look at the
 ### Table of Contents Guides
 - [Table of Contents: Markdown All in One](https://markdown-all-in-one.github.io/docs/guide/table-of-contents.html) An explanation of the Table of Content Markdown lists.
 - [Table-of-Contents (TOC) Generators](https://github.com/sindresorhus/stuff/blob/main/toc-generators.md) - Three resources for auto-generating TOCs.
+
+## Git Workflow Resources
+- [What is a Git Workflow?](https://about.gitlab.com/topics/version-control/what-is-git-workflow/) - A quick overview of what Git workflows are and 6 commonly used Git workflows.
+- [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows) - A guide to the common Git workflows used by software development teams.
+- [gitworkflows - An Overview of Recommended Workflows with Git](https://git-scm.com/docs/gitworkflows) - A guide documenting common practices for using Git, based on a loose ruleset. 
+- [5 Different Git Workflows](https://medium.com/javarevisited/5-different-git-workflows-50f75d8783a7) - A step-by-step guide to using the 5 most common Git workflows, including diagrams.
 
 ## Git Related Resources
 
