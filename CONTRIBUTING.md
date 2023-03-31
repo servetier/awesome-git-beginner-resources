@@ -29,17 +29,16 @@ It's easy. It's free. [Here's a link.](https://github.com/join)
 Once you've joined, be sure to come back to this list: https://github.com/servetier/awesome-git-beginner-resources
 
 ### Click the README.md file.
-{SCREENSHOT TO BE ADDED}
+![image](https://user-images.githubusercontent.com/128761003/229167620-cec07008-d3ca-43e0-aa1a-164f8869eeae.png)
 
 ### Click the Edit icon. 
-{SCREENSHOT TO BE ADDED}
+![image](https://user-images.githubusercontent.com/128761003/229168792-8f1ba9b2-b120-4bbc-a0e1-360b67cb423a.png)
 
 ### Add your contribution.
 Be sure to follow the contribution guidelines above. If you choose to edit in-browser, here's a guide on [Github markdown.](https://docs.github.com/en/get-started/writing-on-github)
 
-### Explain what you added, then click "Propose file change".
+### Add a commit message explaining what you added, then click "Propose file change".
 Doublecheck that your submission follows the contributer guidelines, then propose your change. 
-
-{SCREENSHOT TO BE ADDED}
+![image](https://user-images.githubusercontent.com/128761003/229169039-4d63034c-41c3-4091-91fa-f4834b97ab09.png)
 
 ### Submit your [pull request.](https://help.github.com/articles/using-pull-requests/)
